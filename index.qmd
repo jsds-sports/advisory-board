@@ -1,0 +1,61 @@
+# Summary for Advisory Board Fall 2026 Meeting
+**Journal of Statistics and Data Science in Sport (JSDSS)**
+
+---
+
+**TO:** JSDSS Advisory Board (Doug Fearing, Mike Lopez, Rebecca Nugent, Emily Taylor)
+
+**FROM:** The Editors of JSDSS (Ben Baumer, Ryan Elmore, Brian Macdonald, Gregory J Matthews, Michael Schuckers)
+
+**DATE:** November 2, 2026
+
+---
+
+## Executive Summary
+
+After nearly two years of exploring alternative avenues to create a rigorous, open-access, reproducible sports data science journal, we officially founded the **Journal of Statistics and Data Science in Sports (JSDSS)** in February 2026. Since then, we have reached an agreement with UNC Charlotte Libraries for publishing and hosting via Open Journal Systems (OJS), secured inclusion on [Project Euclid](https://projecteuclid.org/browse/subject/Statistics-and-Probability). for three years, established the journal's [Aims & Scope](https://journals.charlotte.edu/jsdss/about), recruited a strong [Editorial Board and Advisory Board](https://journals.charlotte.edu/jsdss/about/editorialTeam), and written and published our [founding editorial](https://journals.charlotte.edu/jsdss/article/view/2288).  We officially began accepting submissions on **September 1, 2026**. As of October 26, 2026, we have received 17 manuscript submissions.
+
+---
+
+## Key Accomplishments
+
+### 1. Journal Foundation & Governance
+* Established Aims & Scope, Editorial Board, and Advisory Board.
+* Drafted and published the initial founding editorial.
+
+### 2. Infrastructure & Publishing Partnerships
+* **UNC Charlotte Libraries:** Agreement to host the Open Journal Systems (OJS) platform and updated the website branding.
+* **Project Euclid & Duke University Press:** Partnership agreement established to have JSDSS appear with other Statistics and Probability journals. Costs (~$7.5\text{K}$ over three years: 2027, 2028, and 2029) are fully covered by UNC Charlotte startup funds.
+
+### 3. Submissions & Editorial Operations
+* **Launch:** Began taking manuscripts on September 1, 2026.
+* **Submissions Status (as of October 26, 2026):** 18 submissions total
+  * 8 Desk Rejected
+  * 4 Sent to Peer Review
+  * 6 Pending Desk Review
+* **CMSAC Collaboration:** Partnered with the Carnegie Mellon Sports Analytics Conference to offer expedited reviews for winners of their Reproducible Research Contest.
+
+### 4. Review Process Documentation
+* Comprehensive [Review Process Documentation](https://github.com/jsds-sports/jsdss-manuscript-template/blob/main/instructions-all.md) compiled and published.
+  * [Instructions for Authors](https://github.com/jsds-sports/jsdss-manuscript-template/blob/main/instructions-authors.md)
+  * [Instructions for Reviewers](https://github.com/jsds-sports/jsdss-manuscript-template/blob/main/instructions-reviewers.md)
+  * [Instructions for Associate Editors](https://github.com/jsds-sports/jsdss-manuscript-template/blob/main/instructions-aes.md)
+
+---
+
+## In Progress
+
+* Fine-tuning Open Journal Systems (OJS) configuration with Charlotte Libraries
+* Establishing Digital Object Identifiers (DOIs) setup and workflow.
+* Designing official cover art.
+* Finalizing journal logo design.
+* Developing training for AEs and Reviewers
+
+---
+
+## Discussion Points for Advisory Board
+
+1. **Outreach & Promotion:** Strategies for spreading the word about the journal within the academic and practitioner communities.
+2. **Journal Positioning:** Strategic alignment and positioning of JSDSS within the broader sports analytics and data science landscape.
+3. **Acceptance Balance:** Managing volume vs. maintaining high editorial and methodological rigor.
+4. **Sustainability:** Long-term funding model for Project Euclid hosting beyond the initial three-year startup window (post-2029).
