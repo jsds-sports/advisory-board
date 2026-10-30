@@ -47,6 +47,7 @@ After nearly two years of exploring alternative avenues to create a rigorous, op
 
 * Fine-tuning Open Journal Systems (OJS) configuration with Charlotte Libraries
 * Establishing Digital Object Identifiers (DOIs) setup and workflow.
+* AI policy for submissions and reviews
 * Designing official cover art.
 * Finalizing journal logo design.
 * Developing training for AEs and Reviewers
